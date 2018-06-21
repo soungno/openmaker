@@ -1,0 +1,15 @@
+#+TITLE: openmaker README 
+#+AUTHOR: 김성노
+#+DATE: 2018-06-21
+
+* open maker prjoect 는 Open source hardware와 Open source software를 이용하여 공유 경제 활동을 하는 모든 이를 위한 곳 입니다. 
+
+#+NAME: fig:open source hardware log
+#+CAPTION: Open source hardware log
+[[file:images/Open-source-hardware-logo.png]]
+
+
+#+NAME: fig:open sourc log
+#+CAPTION: Open source log
+#+ATTR_ORG::width 150
+[[file:images/Opensource.png]]
